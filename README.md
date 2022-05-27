@@ -46,7 +46,8 @@
 
 -Giao diện Login
 ![image](https://user-images.githubusercontent.com/89693547/170550799-a3324294-04b7-46a1-96f3-fce6d4df2e9a.png)
-- Giao diện đăng ký Profile thú cưng 
+- Giao diện đăng ký Profile thú cưng
+![image](https://user-images.githubusercontent.com/89693547/170646496-270dfc7b-b62c-4b07-b35b-6abc70ae40fc.png)
 - Giao diện trang chủ
 ![image](https://user-images.githubusercontent.com/89693547/170551006-7b5aa6b5-2d2a-48b0-9683-8c0ec63b19a2.png)
 ![image](https://user-images.githubusercontent.com/89693547/170551018-8a0b07c5-e192-4294-83ff-ebd712948324.png)
