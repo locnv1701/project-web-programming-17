@@ -9,12 +9,14 @@
   Khởi tạo Project
   Code các Business lớn
   Code các API của Backend
+  Call API
 ```
   - Nguyễn Mạnh Cường - B19DCCN084
 ```
   Thiết kế cơ sở dữ liệu
-  Code toàn bộ Frontend
   Code các API phụ cho Backend
+  Thiết kế giao diện
+  Call API
 ```
   - Đỗ Như Phong - B19DCCN498
 ```
